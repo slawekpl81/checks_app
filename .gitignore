@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+develop-eggs/
+parts/
+wheels/
+*.egg-info/
+.env
+*.whl
+MANIFEST
+
+# Installers
+*.manifest
+*.spec
+
+# PyInstaller
+build/
+dist/
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+*.ipy
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Spyder project settings
+.spyderproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy cache
+.mypy_cache/
+
+# Other
+*.log
+*.bak
+*~
+*.swp
+*.DS_Store
+.vscode/ # Folder VS Code
+.idea/ # Folder IntelliJ IDEA/PyCharm
+*.orig
+*.rej
+.pytest_cache/
+__pycache__/
+.coverage
+htmlcov/
+.tox/
+.cache
+.DS_Store
+
+*.csv
